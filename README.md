@@ -1,11 +1,11 @@
 # todoApp
-### live link: https://gilstodolist.netlify.app/
+#### live link: https://gilstodolist.netlify.app/
 
 ## technology
-### html 
-### css
-### javascript 
+#### html 
+#### css
+#### javascript 
 
-#### about
-Javascript practice 
-email: believegilbert20@gmail.com
+### about
+#### Javascript practice 
+#### email: believegilbert20@gmail.com
